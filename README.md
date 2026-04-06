@@ -1,5 +1,4 @@
-# Security-Automtion-Tools
-Python tool that automates nmap port scanning, classifies open services by risk level (critical/high/medium/low), and generates security audit reports.
+
 # Security Automation Tools
 
 A Python tool that runs nmap, classifies every open port by risk level, and generates a security audit report automatically. I built this because during my penetration testing lab I was manually classifying 20+ open ports one by one. That gets old fast. So I automated it.
